@@ -2,10 +2,26 @@
 title: "My Travel Experience"
 ---
 
-# Travel Experience: Japan
+::: {.callout-note}
+🌏 **Overview**  
+This page reflects on my travel experience in Japan and how it contributed to my cultural awareness, adaptability, and learning beyond the classroom.
+:::
+
+# Travel Experience: Japan 🇯🇵
 
 My travel experience in **Japan** was both enriching and memorable.  
 The trip allowed me to experience a unique blend of **modern innovation**, **deep-rooted traditions**, and **highly structured daily life**, which left a strong impression on how culture and environment shape people’s behaviour and systems.
+
+---
+
+## ✨ Travel Snapshot
+
+| Aspect | Highlights |
+|----|----|
+| 🗺️ Destinations | Tokyo, Kyoto, Osaka |
+| 🧭 Focus | Culture, daily life, food |
+| 🌱 Key Skills | Adaptability, observation, planning |
+| 💡 Takeaway | Balance between tradition and innovation |
 
 ---
 
@@ -19,6 +35,13 @@ It highlights how each day was structured to balance sightseeing, cultural explo
 | **Day 1** | Tokyo | Explore Shibuya Crossing, city streets, and shopping districts | Ramen, convenience store snacks |
 | **Day 2** | Kyoto | Visit temples, traditional streets, and historical landmarks | Bento box, matcha desserts |
 | **Day 3** | Osaka | Walk through lively city areas and local markets | Takoyaki, sushi |
+
+---
+
+::: {.callout-tip}
+🗂️ **Planning insight:**  
+Structuring each day with a clear focus helped balance exploration with rest and made the trip more enjoyable and manageable.
+:::
 
 ---
 
@@ -65,6 +88,13 @@ These values resonated with me, as they reflect principles such as **precision**
 
 ---
 
+::: {.callout-note}
+🍱 **Reflection:**  
+The attention to detail in Japanese food culture mirrors the importance of accuracy and care in technical and analytical work.
+:::
+
+---
+
 ## Reflection and Personal Growth
 
 Traveling in Japan encouraged me to become more observant, adaptable, and respectful of cultural differences.  
@@ -88,4 +118,11 @@ In **Applied Computing**, understanding user behaviour across different cultures
 ## Conclusion
 
 Overall, my travel experience in Japan was both inspiring and educational.  
-It broadened my perspective and continues to influence how I think about design, efficiency, and problem-solving in my academic and future professional journey.
+It broadened my perspective and continues to influence how I think about **design**, **efficiency**, and **problem-solving** in my academic journey and future professional development.
+
+---
+
+::: {.callout-note}
+📌 **Final takeaway:**  
+Exposure to different cultures strengthens both personal growth and professional mindset.
+:::

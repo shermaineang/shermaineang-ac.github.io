@@ -2,57 +2,104 @@
 title: "Interests"
 ---
 
-This page highlights a few areas I enjoy exploring outside of my core modules.  
-My interests reflect a mix of **technology**, **finance**, and **personal growth**, and they influence how I approach learning and project work.
+::: {.callout-note}
+🌱 **Overview**  
+This page highlights key areas I enjoy exploring beyond my core modules. These interests reflect my curiosity, learning habits, and how I approach problem-solving in both academic and personal contexts.
+:::
+
+My interests reflect a mix of **technology**, **finance**, and **personal growth**, and they influence how I plan my learning, approach projects, and develop long-term skills.
+
+---
+
+## ✨ Interest Snapshot
+
+| Area | Focus |
+|----|----|
+| 💰 FinTech | Digital payments, security, automation |
+| 📊 Analytics | Data interpretation & visual storytelling |
+| 💻 Development | Practical problem-solving through code |
+| 🌱 Growth | Continuous, reflective learning |
 
 ---
 
 ## 1) Financial Technology (FinTech)
 
-I am interested in how technology can make financial services more efficient, secure, and accessible.  
-In particular, I enjoy learning about:
+I am interested in how technology can make financial services more **efficient**, **secure**, and **accessible**. FinTech appeals to me because it combines technical challenges with real-world impact.
 
-- **Digital payments & financial platforms** (how systems handle speed, scale, and reliability)
-- **Risk and fraud detection** (using patterns in data to identify unusual behaviour)
-- **Personal finance & automation** (tools that help users make better financial decisions)
+In particular, I enjoy learning about:
+- **Digital payments & financial platforms** — how systems handle speed, scale, and reliability  
+- **Risk and fraud detection** — using data patterns to identify unusual behaviour  
+- **Personal finance & automation** — tools that support better financial decision-making  
 
 **Why this matters to me:**  
-FinTech combines real-world impact with challenging technical problems, which motivates me to keep learning and building.
+FinTech operates at the intersection of technology and everyday life. Understanding these systems motivates me to learn how reliable and user-focused solutions are designed.
+
+---
+
+::: {.callout-tip}
+💡 **Key takeaway:**  
+Well-designed financial systems require both strong technical foundations and an understanding of user needs.
+:::
 
 ---
 
 ## 2) Data Analytics & Visualisation
 
-I enjoy analysing data and presenting insights clearly, especially through good visualisation choices.
+I enjoy analysing data and transforming it into insights that are **clear**, **accurate**, and **easy to understand**.
 
-Some aspects I like include:
-- Turning messy data into useful, structured information  
-- Choosing visuals that match the goal (comparison, trend, relationship, distribution)  
-- Writing short explanations that help non-technical audiences understand the results  
+Some aspects I find particularly engaging include:
+- Cleaning and structuring messy datasets  
+- Choosing appropriate visuals based on the purpose (trend, comparison, relationship)  
+- Writing concise explanations that help non-technical audiences interpret results  
 
 **How it helps me:**  
-This interest improves my ability to communicate findings and support decisions with evidence.
+This interest strengthens my ability to support decisions with evidence and communicate findings effectively, which is valuable in both technical and collaborative environments.
 
 ---
 
 ## 3) Software Development & Problem-Solving
 
-I enjoy building practical solutions through programming. This includes:
-- Writing clean and readable code  
-- Debugging and improving existing work  
-- Designing small features that solve specific user needs  
+I enjoy building practical solutions through programming and iterative improvement.
+
+This includes:
+- Writing clean, readable, and maintainable code  
+- Debugging issues systematically  
+- Designing small features that solve specific problems  
 
 **How it helps me:**  
-It develops my discipline, logical thinking, and attention to detail—useful for both academic projects and real work settings.
+Software development trains my logical thinking and attention to detail, while also teaching patience and persistence when solving complex problems.
+
+---
+
+::: {.callout-note}
+🛠️ **Learning mindset:**  
+I view challenges in coding as opportunities to improve both my technical skills and problem-solving approach.
+:::
 
 ---
 
 ## 4) Continuous Learning & Growth
 
-I like learning in small, consistent steps. My preferred learning habits include:
-- Keeping short notes (e.g., commands, templates, common mistakes)
-- Practising with mini tasks instead of only reading theory
-- Reflecting on what worked and what didn’t after each assignment
+I value consistent and reflective learning over last-minute memorisation. My preferred learning habits include:
+- Keeping concise notes (commands, templates, common mistakes)  
+- Practising through small tasks rather than only reading theory  
+- Reflecting on what worked and what could be improved after each assignment  
 
 **How it helps me:**  
-This keeps me organised and helps me improve across different modules and projects.
+These habits help me stay organised, reduce repeated mistakes, and steadily improve across different modules and projects.
+
+---
+
+## 🚀 Looking Ahead
+
+Moving forward, I hope to continue developing these interests by:
+- Applying FinTech concepts to real datasets  
+- Building small tools or dashboards to practise analytics  
+- Strengthening my technical foundation while maintaining a reflective learning mindset  
+
+---
+
+::: {.callout-note}
+📌 **Final reflection:**  
+My interests guide how I learn, adapt, and grow, shaping both my academic journey and future professional development.
+:::

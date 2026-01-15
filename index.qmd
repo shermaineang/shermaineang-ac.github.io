@@ -2,7 +2,11 @@
 title: "Self Introduction"
 ---
 
-## Hi, I’m Shermaine 👋
+::: {.callout-note}
+👋 **Welcome!** This website documents my academic journey, interests, and reflections as a student in Applied Computing (FinTech).
+:::
+
+## Hi, I’m Shermaine
 
 I’m a student at the **Singapore Institute of Technology (SIT)** pursuing a **Bachelor of Applied Computing with Honours**, specialising in **Financial Technology (FinTech)**.  
 I am interested in developing practical and reliable solutions that integrate **software development**, **data analytics**, and **clear visual communication** to solve real-world problems.
@@ -12,7 +16,18 @@ I am interested in developing practical and reliable solutions that integrate **
 ## What you’ll find here
 - **About Me**: an overview of my background and interests  
 - **Interests**: areas I enjoy exploring beyond coursework  
-- **Reflection (GenAI)**: my experience using generative AI tools for this assessment  
+- **Reflection**: my experience using generative AI tools for this assessment  
+
+---
+
+## ✨ Quick Profile Snapshot
+
+| Area | Summary |
+|----|----|
+| 🎓 Programme | Applied Computing (FinTech), SIT |
+| 💻 Technical Focus | Software Development, Data Analytics |
+| 📊 Tools | R, Python, SQL, Excel, Tableau |
+| 🌱 Strengths | Structured thinking, adaptability, continuous learning |
 
 ---
 
@@ -32,6 +47,13 @@ Being around animals provides a sense of calm and emotional comfort, helping me 
 
 ---
 
+::: {.callout-tip}
+🌱 **Personal takeaway:**  
+Maintaining balance outside of academics helps me stay focused, motivated, and mentally resilient.
+:::
+
+---
+
 ## Music as a Source of Motivation 🎵
 
 Music plays an important role in helping me stay focused and motivated, especially during long study or project sessions.  
@@ -46,10 +68,25 @@ allowfullscreen></iframe>
 
 ---
 
+## 🚀 What Drives Me
+
+- Building solutions that are **useful and reliable**
+- Learning continuously through **practice and reflection**
+- Communicating ideas clearly to **both technical and non-technical audiences**
+
+---
+
 ## Contacts 💼
 
-If you would like to learn more about my work or connect with me, feel free to visit the links below:
+If you would like to learn more about my work or connect with me, feel free to reach out:
 
-- **GitHub**: <https://github.com/shermaineang>  
-- **LinkedIn**: <https://www.linkedin.com/in/ayt-shermaine/>  
-- **Email**: <2500016@sit.singaporetech.edu.sg>
+- 🧑‍💻 **GitHub**: <https://github.com/shermaineang>  
+- 💼 **LinkedIn**: <https://www.linkedin.com/in/ayt-shermaine/>  
+- ✉️ **Email**: <2500016@sit.singaporetech.edu.sg>  
+
+---
+
+::: {.callout-note}
+📌 **Thank you for visiting!**  
+Feel free to explore the other pages to learn more about my interests, travel experiences, and reflections.
+:::

@@ -2,14 +2,55 @@
 title: "Reflection on the use of GenAI"
 ---
 
-1. What is the GenAI tool you have used? Why did you choose it?
+## 1. What is the GenAI tool you have used? Why did you choose it?
 
-2. How did the GenAI tool help you in completing the assessment (with examples)?
+The primary GenAI tool I used for this assessment was **ChatGPT**. I chose this tool because it is effective in generating structured content, explaining technical concepts clearly, and supporting problem-solving during the development process. As I was working with Quarto, GitHub, Markdown, and CSS, having a tool that could provide step-by-step explanations and examples helped me better understand unfamiliar workflows and requirements.
 
-3. What do you think are beneficial about the tool?
+---
 
-4. What do you think are challenging about the tool?
+## 2. How did the GenAI tool help you in completing the assessment (with examples)?
 
-5. How do you think will GenAI tools assist you for your future study or work?
+ChatGPT supported me in several practical ways throughout the assessment:
 
-6. Any other thoughts you would like to share.
+- **Content structuring**: It helped me organise my website pages logically, such as structuring my Self Introduction, Interests, Travel Experience, and Reflection pages with clear headings and coherent flow.
+- **Technical guidance**: The tool assisted me in configuring Quarto and GitHub Pages correctly, including understanding how `.qmd` files are rendered into `.html` files and how to deploy the site using the `/docs` folder.
+- **Styling support**: It provided guidance on improving my `styles.css` file, allowing me to enhance the visual appearance of my website while keeping it professional and suitable for academic submission.
+- **Reflection drafting**: It helped me brainstorm reflective points and refine my wording so that my reflection was clearer, more structured, and aligned with the assessment rubric.
+
+These examples show how GenAI acted as a support tool rather than replacing my own thinking or work.
+
+---
+
+## 3. What do you think are beneficial about the tool?
+
+One major benefit of GenAI tools is their ability to **increase efficiency**. They help reduce the time spent on trial-and-error by offering clear explanations and examples. The tool is also useful for **idea generation**, especially when I am unsure how to start writing or structuring content. Additionally, GenAI tools can act as a learning aid by explaining concepts in simpler terms, which supports independent learning.
+
+---
+
+## 4. What do you think are challenging about the tool?
+
+A key challenge is that GenAI-generated content can sometimes be **too generic** or not fully aligned with specific requirements. This means I must carefully review, edit, and personalise the output to ensure it reflects my own experiences and understanding. There is also a risk of over-reliance if the tool is used without critical thinking. Therefore, it is important to verify information and ensure that all final decisions are made by the user.
+
+---
+
+## 5. How do you think GenAI tools will assist you in your future study or work?
+
+In future studies and professional work, I believe GenAI tools will be helpful for:
+- Brainstorming ideas and planning projects  
+- Drafting and improving documentation or reports  
+- Debugging code and learning new technical tools more efficiently  
+- Supporting continuous learning in fast-changing technical fields  
+
+When used responsibly, GenAI tools can enhance productivity and support better problem-solving.
+
+---
+
+## 6. Any other thoughts you would like to share?
+
+Overall, this assessment has shown me that GenAI is most effective when used as a **supportive assistant rather than a replacement for learning**. By combining GenAI assistance with my own effort, judgement, and reflection, I was able to produce work that better meets the assessment objectives while deepening my understanding of both technical and reflective practices.
+
+---
+
+## Academic Integrity Statement
+
+While GenAI tools were used to assist with brainstorming, structuring, and technical troubleshooting, all final content, edits, and interpretations represent my own understanding and learning. I reviewed and refined all generated material to ensure accuracy, originality, and alignment with the assessment requirements.
