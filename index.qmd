@@ -2,28 +2,54 @@
 title: "Self Introduction"
 ---
 
-### About Me
-Hi, I’m Shermaine 👋
+## Hi, I’m Shermaine 👋
 
-I’m a student at the Singapore Institute of Technology (SIT), pursuing a **Bachelor of Applied Computing with Honours**, specialising in **Financial Technology (FinTech)**.
-
-I have a strong interest in how technology can be applied to solve real-world financial problems, especially through **data analysis**, **software development**, and **visualisation**.  
-This website showcases my academic projects and selected work created during my student journey.
+I’m a student at the **Singapore Institute of Technology (SIT)** pursuing a **Bachelor of Applied Computing with Honours**, specialising in **Financial Technology (FinTech)**.  
+I am interested in developing practical and reliable solutions that integrate **software development**, **data analytics**, and **clear visual communication** to solve real-world problems.
 
 ---
 
-### Quick Facts
-
-- 🎓 **Programme**: BSc (Hons) Applied Computing (FinTech), SIT  
-- 💡 **Interests**: Data Analytics, Financial Systems, Software Development  
-- 🧰 **Tools & Technologies**:
-  - Programming: R, Python  
-  - Data & Analytics: Excel, Tableau  
-  - Other: Git, Quarto, SQL
+## What you’ll find here
+- **About Me**: an overview of my background and interests  
+- **Interests**: areas I enjoy exploring beyond coursework  
+- **Reflection (GenAI)**: my experience using generative AI tools for this assessment  
 
 ---
 
-### About This Website
+## Personal Interest: Animals 🐾 
 
-This portfolio was built using **Quarto** and published via **GitHub Pages**.  
-It serves as a central place to document my learning progress, projects, and data visualisation work.
+I have a strong fondness for **dogs and cats** and enjoy learning about animals and their behaviour. Although I do not currently own a pet, I appreciate opportunities to interact with animals, such as spending time with friends’ pets or engaging with animal-related content.
+
+Being around animals provides a sense of calm and emotional comfort, helping me manage stress during academically demanding periods. I believe that positive human–animal interactions contribute to mental well-being and promote empathy and patience.
+
+![](images/chihuahua_small.jpg){width=260px .rounded}
+![](images/tabby_small.jpg){width=260px .rounded}
+
+- Animals provide a calming and positive presence  
+- Interacting with pets helps reduce stress and mental fatigue  
+- Observing animals encourages empathy and emotional awareness  
+- This interest reminds me to maintain balance between work and personal well-being  
+
+---
+
+## Music as a Source of Motivation 🎵
+
+Music plays an important role in helping me stay focused and motivated, especially during long study or project sessions.  
+The video below features a song by **Stray Kids**, a group whose music I enjoy for its strong energy, meaningful messages, and themes of perseverance and self-growth.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/TQTlCHxyuu8"
+title="Stray Kids - God's Menu (Official Music Video)"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+
+---
+
+## Contacts 💼
+
+If you would like to learn more about my work or connect with me, feel free to visit the links below:
+
+- **GitHub**: <https://github.com/shermaineang>  
+- **LinkedIn**: <https://www.linkedin.com/in/ayt-shermaine/>  
+- **Email**: <2500016@sit.singaporetech.edu.sg>

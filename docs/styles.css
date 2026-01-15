@@ -1,1 +1,107 @@
 /* css styles */
+
+body {
+  line-height: 1.7;
+  font-size: 1.05rem;
+}
+
+main {
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+h1, h2, h3 {
+  letter-spacing: 0.2px;
+  line-height: 1.25;
+}
+
+h1 {
+  font-weight: 750;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+h3 {
+  font-weight: 650;
+}
+
+hr {
+  opacity: 0.25;
+}
+
+/* -----------------------------
+   Links
+------------------------------ */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* -----------------------------
+   Lists
+------------------------------ */
+ul, ol {
+  padding-left: 1.25rem;
+}
+
+li {
+  margin: 0.25rem 0;
+}
+
+/* -----------------------------
+   Images
+------------------------------ */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.rounded img,
+img.rounded {
+  border-radius: 16px;
+}
+
+p img {
+  margin-right: 12px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  vertical-align: top;
+}
+
+p img {
+  border: 1px solid rgba(0,0,0,0.08);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+
+iframe {
+  width: 100%;
+  max-width: 100%;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  border-radius: 14px;
+  border: 1px solid rgba(0,0,0,0.08);
+  box-shadow: 0 10px 24px rgba(0,0,0,0.10);
+  margin-top: 10px;
+}
+
+blockquote {
+  padding: 0.9rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 4px solid rgba(0,0,0,0.2);
+  background: rgba(0,0,0,0.03);
+  border-radius: 10px;
+}
+
+.navbar {
+  box-shadow: 0 2px 16px rgba(0,0,0,0.06);
+}
+
+footer {
+  margin-top: 2.5rem;
+  opacity: 0.9;
+}

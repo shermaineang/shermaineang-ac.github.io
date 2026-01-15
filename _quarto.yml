@@ -4,23 +4,19 @@ project:
 
 website:
   title: "Shermaine's Portfolio"
-  favicon: favicon.png
   navbar:
-    logo: logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: interests.qmd
+        text: Interests
+      - href: travel.qmd
+        text: My Travel Experience
+      - href: reflection.qmd
+        text: Reflection (GenAI)
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
-    toc-depth: 3
-    toc-location: left
-
-
-

@@ -1,16 +1,198 @@
 [
   {
+    "objectID": "interests.html",
+    "href": "interests.html",
+    "title": "Interests",
+    "section": "",
+    "text": "This page highlights a few areas I enjoy exploring outside of my core modules.\nMy interests reflect a mix of technology, finance, and personal growth, and they influence how I approach learning and project work."
+  },
+  {
+    "objectID": "interests.html#financial-technology-fintech",
+    "href": "interests.html#financial-technology-fintech",
+    "title": "Interests",
+    "section": "1) Financial Technology (FinTech)",
+    "text": "1) Financial Technology (FinTech)\nI am interested in how technology can make financial services more efficient, secure, and accessible.\nIn particular, I enjoy learning about:\n\nDigital payments & financial platforms (how systems handle speed, scale, and reliability)\nRisk and fraud detection (using patterns in data to identify unusual behaviour)\nPersonal finance & automation (tools that help users make better financial decisions)\n\nWhy this matters to me:\nFinTech combines real-world impact with challenging technical problems, which motivates me to keep learning and building."
+  },
+  {
+    "objectID": "interests.html#data-analytics-visualisation",
+    "href": "interests.html#data-analytics-visualisation",
+    "title": "Interests",
+    "section": "2) Data Analytics & Visualisation",
+    "text": "2) Data Analytics & Visualisation\nI enjoy analysing data and presenting insights clearly, especially through good visualisation choices.\nSome aspects I like include: - Turning messy data into useful, structured information\n- Choosing visuals that match the goal (comparison, trend, relationship, distribution)\n- Writing short explanations that help non-technical audiences understand the results\nHow it helps me:\nThis interest improves my ability to communicate findings and support decisions with evidence."
+  },
+  {
+    "objectID": "interests.html#software-development-problem-solving",
+    "href": "interests.html#software-development-problem-solving",
+    "title": "Interests",
+    "section": "3) Software Development & Problem-Solving",
+    "text": "3) Software Development & Problem-Solving\nI enjoy building practical solutions through programming. This includes: - Writing clean and readable code\n- Debugging and improving existing work\n- Designing small features that solve specific user needs\nHow it helps me:\nIt develops my discipline, logical thinking, and attention to detail—useful for both academic projects and real work settings."
+  },
+  {
+    "objectID": "interests.html#continuous-learning-growth",
+    "href": "interests.html#continuous-learning-growth",
+    "title": "Interests",
+    "section": "4) Continuous Learning & Growth",
+    "text": "4) Continuous Learning & Growth\nI like learning in small, consistent steps. My preferred learning habits include: - Keeping short notes (e.g., commands, templates, common mistakes) - Practising with mini tasks instead of only reading theory - Reflecting on what worked and what didn’t after each assignment\nHow it helps me:\nThis keeps me organised and helps me improve across different modules and projects."
+  },
+  {
+    "objectID": "interests.html#personal-interest-pets",
+    "href": "interests.html#personal-interest-pets",
+    "title": "Interests",
+    "section": "5) Personal Interest: Pets 🐾",
+    "text": "5) Personal Interest: Pets 🐾\nI have a personal interest in animals, especially dogs and cats. While I do not currently own a pet, I enjoy being around pets because they create a calm and positive environment.\nWhat I appreciate about pets: - They reduce stress and improve mood\n- They encourage empathy and patience\n- They remind me to slow down and maintain balance during busy periods"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Self Introduction",
     "section": "",
-    "text": "About Me\nHi, I’m Shermaine 👋\nI’m a student at the Singapore Institute of Technology (SIT), pursuing a Bachelor of Applied Computing with Honours, specialising in Financial Technology (FinTech).\nI have a strong interest in how technology can be applied to solve real-world financial problems, especially through data analysis, software development, and visualisation.\nThis website showcases my academic projects and selected work created during my student journey.\n\n\n\nQuick Facts\n\n🎓 Programme: BSc (Hons) Applied Computing (FinTech), SIT\n\n💡 Interests: Data Analytics, Financial Systems, Software Development\n\n🧰 Tools & Technologies:\n\nProgramming: R, Python\n\nData & Analytics: Excel, Tableau\n\nOther: Git, Quarto, SQL\n\n\n\n\n\nAbout This Website\nThis portfolio was built using Quarto and published via GitHub Pages.\nIt serves as a central place to document my learning progress, projects, and data visualisation work."
+    "text": "I’m a student at the Singapore Institute of Technology (SIT) pursuing a Bachelor of Applied Computing with Honours, specialising in Financial Technology (FinTech).\nI am interested in developing practical and reliable solutions that integrate software development, data analytics, and clear visual communication to solve real-world problems."
+  },
+  {
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "Self Introduction",
+    "section": "What you’ll find here",
+    "text": "What you’ll find here\n\nAbout Me: an overview of my background and interests\n\nInterests: areas I enjoy exploring beyond coursework\n\nReflection (GenAI): my experience using generative AI tools for this assessment"
+  },
+  {
+    "objectID": "index.html#personal-interest-animals",
+    "href": "index.html#personal-interest-animals",
+    "title": "Self Introduction",
+    "section": "Personal Interest: Animals 🐾",
+    "text": "Personal Interest: Animals 🐾\nI have a strong fondness for dogs and cats and enjoy learning about animals and their behaviour. Although I do not currently own a pet, I appreciate opportunities to interact with animals, such as spending time with friends’ pets or engaging with animal-related content.\nBeing around animals provides a sense of calm and emotional comfort, helping me manage stress during academically demanding periods. I believe that positive human–animal interactions contribute to mental well-being and promote empathy and patience.\n \n\nAnimals provide a calming and positive presence\n\nInteracting with pets helps reduce stress and mental fatigue\n\nObserving animals encourages empathy and emotional awareness\n\nThis interest reminds me to maintain balance between work and personal well-being"
+  },
+  {
+    "objectID": "index.html#music-as-a-source-of-motivation",
+    "href": "index.html#music-as-a-source-of-motivation",
+    "title": "Self Introduction",
+    "section": "Music as a Source of Motivation 🎵",
+    "text": "Music as a Source of Motivation 🎵\nMusic plays an important role in helping me stay focused and motivated, especially during long study or project sessions.\nThe video below features a song by Stray Kids, a group whose music I enjoy for its strong energy, meaningful messages, and themes of perseverance and self-growth."
+  },
+  {
+    "objectID": "index.html#contact-links",
+    "href": "index.html#contact-links",
+    "title": "Self Introduction",
+    "section": "",
+    "text": "If you would like to learn more about my work or connect with me, feel free to visit the links below:\n\nGitHub: https://github.com/shermaineang\n\nLinkedIn: https://www.linkedin.com/in/ayt-shermaine/\n\nEmail: 2500016@sit.singaporetech.edu.sg"
   },
   {
     "objectID": "index.html#hi-im-shermaine",
     "href": "index.html#hi-im-shermaine",
     "title": "Self Introduction",
     "section": "",
-    "text": "I’m a student at the Singapore Institute of Technology (SIT), pursuing a Bachelor of Applied Computing with Honours, specialising in Financial Technology (FinTech).\nI have a strong interest in how technology can be applied to solve real-world financial problems, especially through data analysis, software development, and visualisation.\nThis website showcases my academic projects and selected work created during my student journey.\n\n\n\n\n🎓 Programme: BSc (Hons) Applied Computing (FinTech), SIT\n\n💡 Interests: Data Analytics, Financial Systems, Software Development\n\n🧰 Tools & Technologies:\n\nProgramming: R, Python\n\nData & Analytics: Excel, Tableau\n\nOther: Git, Quarto, SQL\n\n\n\n\n\n\nThis portfolio was built using Quarto and published via GitHub Pages.\nIt serves as a central place to document my learning progress, projects, and data visualisation work."
+    "text": "I’m a student at the Singapore Institute of Technology (SIT) pursuing a Bachelor of Applied Computing with Honours, specialising in Financial Technology (FinTech).\nI am interested in developing practical and reliable solutions that integrate software development, data analytics, and clear visual communication to solve real-world problems."
+  },
+  {
+    "objectID": "index.html#contacts",
+    "href": "index.html#contacts",
+    "title": "Self Introduction",
+    "section": "Contacts 💼",
+    "text": "Contacts 💼\nIf you would like to learn more about my work or connect with me, feel free to visit the links below:\n\nGitHub: https://github.com/shermaineang\n\nLinkedIn: https://www.linkedin.com/in/ayt-shermaine/\n\nEmail: 2500016@sit.singaporetech.edu.sg"
+  },
+  {
+    "objectID": "travel.html",
+    "href": "travel.html",
+    "title": "My Travel Experience",
+    "section": "",
+    "text": "My travel experience in Japan was both enriching and memorable.\nThe trip allowed me to experience a unique blend of modern innovation, deep-rooted traditions, and highly structured daily life, which left a strong impression on how culture and environment shape people’s behaviour and systems.\n\n\n\nThe table below summarises a sample 3-day itinerary from my trip to Japan.\nIt highlights how each day was structured to balance sightseeing, cultural exploration, and food experiences.\n\n\n\n\n\n\n\n\n\nDay\nLocation\nMain Activities\nFood Experience\n\n\n\n\nDay 1\nTokyo\nExplore Shibuya Crossing, city streets, and shopping districts\nRamen, convenience store snacks\n\n\nDay 2\nKyoto\nVisit temples, traditional streets, and historical landmarks\nBento box, matcha desserts\n\n\nDay 3\nOsaka\nWalk through lively city areas and local markets\nTakoyaki, sushi\n\n\n\n\n\n\n\nJapan stood out to me for its emphasis on discipline, respect, and efficiency.\nFrom public transportation to everyday interactions, I observed how small habits—such as punctuality, cleanliness, and consideration for others—contribute to an orderly and comfortable society.\nThese observations helped me appreciate how thoughtful system design, whether social or technological, can significantly improve user experience.\n\n\n\n\nDuring my visit, I explored several well-known landmarks and city areas.\nThese places highlighted Japan’s ability to preserve tradition while embracing modern development.\nSome memorable sights included: - Bustling cityscapes with advanced infrastructure\n- Traditional streets and temples that reflect historical values\n- Public spaces designed with both functionality and aesthetics in mind\nExperiencing these places helped me understand the importance of balance between innovation and heritage.\n\n\n\n\nJapanese food culture was one of the most enjoyable aspects of the trip.\nMeals were not only about taste but also about presentation, balance, and attention to detail.\nI enjoyed experiencing a wide range of dishes, from casual street food to carefully prepared meals. The consistency and quality of food reflected Japan’s strong emphasis on craftsmanship and pride in work.\n\n\n\n\nWhat stood out to me about Japanese cuisine: - Strong focus on freshness and quality\n- Careful presentation that enhances the dining experience\n- Respect for ingredients and cooking processes\nThese values resonated with me, as they reflect principles such as precision, consistency, and continuous improvement, which are also important in computing and project work.\n\n\n\n\nTraveling in Japan encouraged me to become more observant, adaptable, and respectful of cultural differences.\nNavigating transportation systems, understanding social norms, and managing daily plans independently strengthened my confidence and problem-solving skills.\nThis experience reinforced the importance of designing systems—whether technical or social—that are intuitive, reliable, and user-focused.\n\n\n\n\nThe lessons from this trip influence how I approach my academic work: - Greater appreciation for well-designed systems and workflows\n- Improved adaptability when learning new concepts\n- Stronger awareness of global perspectives, especially in technology-driven societies\nIn Applied Computing, understanding user behaviour across different cultures is increasingly valuable.\n\n\n\n\nOverall, my travel experience in Japan was both inspiring and educational.\nIt broadened my perspective and continues to influence how I think about design, efficiency, and problem-solving in my academic and future professional journey."
+  },
+  {
+    "objectID": "travel.html#purpose-of-travel",
+    "href": "travel.html#purpose-of-travel",
+    "title": "My Travel Experience",
+    "section": "",
+    "text": "For me, travel is not only about leisure, but also about: - Experiencing different cultures and lifestyles\n- Observing how people interact with their environment\n- Learning to adapt to unfamiliar situations\n- Developing independence and confidence\nThese experiences have influenced how I approach challenges in both academic and personal settings."
+  },
+  {
+    "objectID": "travel.html#selected-travel-experiences",
+    "href": "travel.html#selected-travel-experiences",
+    "title": "My Travel Experience",
+    "section": "",
+    "text": "During my travels, I had the opportunity to experience diverse cultures, traditions, and social norms.\nObserving how people from different backgrounds communicate and solve everyday problems helped me develop greater cultural awareness and respect for diversity.\nThis exposure has made me more open-minded and improved my ability to work effectively in team settings with people from different backgrounds.\n\n\n\n\nTravel often requires adapting to unexpected situations, such as: - Navigating unfamiliar transportation systems\n- Managing time and schedules independently\n- Overcoming language or communication barriers\nThese experiences strengthened my problem-solving skills, patience, and ability to remain calm under pressure—skills that are highly relevant to project work and real-world computing tasks.\n\n\n\n\nPlanning trips, managing budgets, and making decisions independently helped me become more confident and self-reliant.\nTravel taught me the importance of preparation while also embracing flexibility when plans change.\nThis mindset has positively influenced how I manage academic deadlines, group projects, and long-term goals."
+  },
+  {
+    "objectID": "travel.html#how-travel-influences-my-studies",
+    "href": "travel.html#how-travel-influences-my-studies",
+    "title": "My Travel Experience",
+    "section": "",
+    "text": "The lessons gained from travel translate directly into my academic journey:\n\nImproved adaptability when learning new technical concepts\n\nStronger communication and teamwork skills\n\nBetter time management and planning\n\nGreater appreciation for global perspectives in technology and finance\n\nIn the context of Applied Computing and FinTech, understanding diverse user needs and global systems is increasingly important."
+  },
+  {
+    "objectID": "travel.html#reflection",
+    "href": "travel.html#reflection",
+    "title": "My Travel Experience",
+    "section": "",
+    "text": "Overall, travel has helped me grow beyond the classroom by exposing me to new perspectives and challenges.\nThese experiences continue to shape how I learn, collaborate, and approach problem-solving in my academic and future professional journey."
+  },
+  {
+    "objectID": "travel.html#future-travel-goals-optional",
+    "href": "travel.html#future-travel-goals-optional",
+    "title": "My Travel Experience",
+    "section": "",
+    "text": "In the future, I hope to: - Explore more countries and cultures\n- Learn how technology is used differently across regions\n- Continue developing a global mindset that complements my technical skills"
+  },
+  {
+    "objectID": "travel.html#cultural-exposure-and-daily-life",
+    "href": "travel.html#cultural-exposure-and-daily-life",
+    "title": "My Travel Experience",
+    "section": "",
+    "text": "Japan stood out to me for its emphasis on discipline, respect, and efficiency.\nFrom public transportation to everyday interactions, I observed how small habits—such as punctuality, cleanliness, and consideration for others—contribute to an orderly and comfortable society.\nThese observations helped me appreciate how thoughtful system design, whether social or technological, can significantly improve user experience."
+  },
+  {
+    "objectID": "travel.html#iconic-sights-and-places",
+    "href": "travel.html#iconic-sights-and-places",
+    "title": "My Travel Experience",
+    "section": "",
+    "text": "During my visit, I explored several well-known landmarks and city areas.\nThese places highlighted Japan’s ability to preserve tradition while embracing modern development.\nSome memorable sights included: - Bustling cityscapes with advanced infrastructure\n- Traditional streets and temples that reflect historical values\n- Public spaces designed with both functionality and aesthetics in mind\nExperiencing these places helped me understand the importance of balance between innovation and heritage."
+  },
+  {
+    "objectID": "travel.html#food-culture-and-culinary-experience",
+    "href": "travel.html#food-culture-and-culinary-experience",
+    "title": "My Travel Experience",
+    "section": "",
+    "text": "Japanese food culture was one of the most enjoyable aspects of the trip.\nMeals were not only about taste but also about presentation, balance, and attention to detail.\nI enjoyed experiencing a wide range of dishes, from casual street food to carefully prepared meals. The consistency and quality of food reflected Japan’s strong emphasis on craftsmanship and pride in work."
+  },
+  {
+    "objectID": "travel.html#lessons-from-japanese-food-culture",
+    "href": "travel.html#lessons-from-japanese-food-culture",
+    "title": "My Travel Experience",
+    "section": "",
+    "text": "What stood out to me about Japanese cuisine: - Strong focus on freshness and quality\n- Careful presentation that enhances the dining experience\n- Respect for ingredients and cooking processes\nThese values resonated with me, as they reflect principles such as precision, consistency, and continuous improvement, which are also important in computing and project work."
+  },
+  {
+    "objectID": "travel.html#reflection-and-personal-growth",
+    "href": "travel.html#reflection-and-personal-growth",
+    "title": "My Travel Experience",
+    "section": "",
+    "text": "Traveling in Japan encouraged me to become more observant, adaptable, and respectful of cultural differences.\nNavigating transportation systems, understanding social norms, and managing daily plans independently strengthened my confidence and problem-solving skills.\nThis experience reinforced the importance of designing systems—whether technical or social—that are intuitive, reliable, and user-focused."
+  },
+  {
+    "objectID": "travel.html#how-this-experience-influences-my-studies",
+    "href": "travel.html#how-this-experience-influences-my-studies",
+    "title": "My Travel Experience",
+    "section": "",
+    "text": "The lessons from this trip influence how I approach my academic work: - Greater appreciation for well-designed systems and workflows\n- Improved adaptability when learning new concepts\n- Stronger awareness of global perspectives, especially in technology-driven societies\nIn Applied Computing, understanding user behaviour across different cultures is increasingly valuable."
+  },
+  {
+    "objectID": "travel.html#conclusion",
+    "href": "travel.html#conclusion",
+    "title": "My Travel Experience",
+    "section": "",
+    "text": "Overall, my travel experience in Japan was both inspiring and educational.\nIt broadened my perspective and continues to influence how I think about design, efficiency, and problem-solving in my academic and future professional journey."
+  },
+  {
+    "objectID": "travel.html#day-itinerary-in-japan",
+    "href": "travel.html#day-itinerary-in-japan",
+    "title": "My Travel Experience",
+    "section": "",
+    "text": "The table below summarises a sample 3-day itinerary from my trip to Japan.\nIt highlights how each day was structured to balance sightseeing, cultural exploration, and food experiences.\n\n\n\n\n\n\n\n\n\nDay\nLocation\nMain Activities\nFood Experience\n\n\n\n\nDay 1\nTokyo\nExplore Shibuya Crossing, city streets, and shopping districts\nRamen, convenience store snacks\n\n\nDay 2\nKyoto\nVisit temples, traditional streets, and historical landmarks\nBento box, matcha desserts\n\n\nDay 3\nOsaka\nWalk through lively city areas and local markets\nTakoyaki, sushi"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "What is the GenAI tool you have used? Why did you choose it?\nHow did the GenAI tool help you in completing the assessment (with examples)?\nWhat do you think are beneficial about the tool?\nWhat do you think are challenging about the tool?\nHow do you think will GenAI tools assist you for your future study or work?\nAny other thoughts you would like to share."
   }
 ]

@@ -1,0 +1,91 @@
+---
+title: "My Travel Experience"
+---
+
+# Travel Experience: Japan
+
+My travel experience in **Japan** was both enriching and memorable.  
+The trip allowed me to experience a unique blend of **modern innovation**, **deep-rooted traditions**, and **highly structured daily life**, which left a strong impression on how culture and environment shape people’s behaviour and systems.
+
+---
+
+## 🗓️ 3-Day Itinerary in Japan
+
+The table below summarises a sample **3-day itinerary** from my trip to Japan.  
+It highlights how each day was structured to balance sightseeing, cultural exploration, and food experiences.
+
+| Day | Location | Main Activities | Food Experience |
+|----|---------|----------------|----------------|
+| **Day 1** | Tokyo | Explore Shibuya Crossing, city streets, and shopping districts | Ramen, convenience store snacks |
+| **Day 2** | Kyoto | Visit temples, traditional streets, and historical landmarks | Bento box, matcha desserts |
+| **Day 3** | Osaka | Walk through lively city areas and local markets | Takoyaki, sushi |
+
+---
+
+## Cultural Exposure and Daily Life
+
+Japan stood out to me for its emphasis on **discipline, respect, and efficiency**.  
+From public transportation to everyday interactions, I observed how small habits—such as punctuality, cleanliness, and consideration for others—contribute to an orderly and comfortable society.
+
+These observations helped me appreciate how thoughtful system design, whether social or technological, can significantly improve user experience.
+
+---
+
+## Iconic Sights and Places
+
+During my visit, I explored several well-known landmarks and city areas.  
+These places highlighted Japan’s ability to preserve tradition while embracing modern development.
+
+Some memorable sights included:
+- Bustling cityscapes with advanced infrastructure  
+- Traditional streets and temples that reflect historical values  
+- Public spaces designed with both functionality and aesthetics in mind  
+
+Experiencing these places helped me understand the importance of balance between innovation and heritage.
+
+---
+
+## Food Culture and Culinary Experience
+
+Japanese food culture was one of the most enjoyable aspects of the trip.  
+Meals were not only about taste but also about **presentation, balance, and attention to detail**.
+
+I enjoyed experiencing a wide range of dishes, from casual street food to carefully prepared meals. The consistency and quality of food reflected Japan’s strong emphasis on craftsmanship and pride in work.
+
+---
+
+## Lessons from Japanese Food Culture
+
+What stood out to me about Japanese cuisine:
+- Strong focus on freshness and quality  
+- Careful presentation that enhances the dining experience  
+- Respect for ingredients and cooking processes  
+
+These values resonated with me, as they reflect principles such as **precision**, **consistency**, and **continuous improvement**, which are also important in computing and project work.
+
+---
+
+## Reflection and Personal Growth
+
+Traveling in Japan encouraged me to become more observant, adaptable, and respectful of cultural differences.  
+Navigating transportation systems, understanding social norms, and managing daily plans independently strengthened my confidence and problem-solving skills.
+
+This experience reinforced the importance of designing systems—whether technical or social—that are intuitive, reliable, and user-focused.
+
+---
+
+## How This Experience Influences My Studies
+
+The lessons from this trip influence how I approach my academic work:
+- Greater appreciation for well-designed systems and workflows  
+- Improved adaptability when learning new concepts  
+- Stronger awareness of global perspectives, especially in technology-driven societies  
+
+In **Applied Computing**, understanding user behaviour across different cultures is increasingly valuable.
+
+---
+
+## Conclusion
+
+Overall, my travel experience in Japan was both inspiring and educational.  
+It broadened my perspective and continues to influence how I think about design, efficiency, and problem-solving in my academic and future professional journey.

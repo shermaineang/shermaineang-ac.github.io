@@ -1,0 +1,58 @@
+---
+title: "Interests"
+---
+
+This page highlights a few areas I enjoy exploring outside of my core modules.  
+My interests reflect a mix of **technology**, **finance**, and **personal growth**, and they influence how I approach learning and project work.
+
+---
+
+## 1) Financial Technology (FinTech)
+
+I am interested in how technology can make financial services more efficient, secure, and accessible.  
+In particular, I enjoy learning about:
+
+- **Digital payments & financial platforms** (how systems handle speed, scale, and reliability)
+- **Risk and fraud detection** (using patterns in data to identify unusual behaviour)
+- **Personal finance & automation** (tools that help users make better financial decisions)
+
+**Why this matters to me:**  
+FinTech combines real-world impact with challenging technical problems, which motivates me to keep learning and building.
+
+---
+
+## 2) Data Analytics & Visualisation
+
+I enjoy analysing data and presenting insights clearly, especially through good visualisation choices.
+
+Some aspects I like include:
+- Turning messy data into useful, structured information  
+- Choosing visuals that match the goal (comparison, trend, relationship, distribution)  
+- Writing short explanations that help non-technical audiences understand the results  
+
+**How it helps me:**  
+This interest improves my ability to communicate findings and support decisions with evidence.
+
+---
+
+## 3) Software Development & Problem-Solving
+
+I enjoy building practical solutions through programming. This includes:
+- Writing clean and readable code  
+- Debugging and improving existing work  
+- Designing small features that solve specific user needs  
+
+**How it helps me:**  
+It develops my discipline, logical thinking, and attention to detail—useful for both academic projects and real work settings.
+
+---
+
+## 4) Continuous Learning & Growth
+
+I like learning in small, consistent steps. My preferred learning habits include:
+- Keeping short notes (e.g., commands, templates, common mistakes)
+- Practising with mini tasks instead of only reading theory
+- Reflecting on what worked and what didn’t after each assignment
+
+**How it helps me:**  
+This keeps me organised and helps me improve across different modules and projects.
