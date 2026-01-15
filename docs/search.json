@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Self Introduction",
+    "section": "",
+    "text": "About Me\nHi, I’m Shermaine 👋\nI’m a student at the Singapore Institute of Technology (SIT), pursuing a Bachelor of Applied Computing with Honours, specialising in Financial Technology (FinTech).\nI have a strong interest in how technology can be applied to solve real-world financial problems, especially through data analysis, software development, and visualisation.\nThis website showcases my academic projects and selected work created during my student journey.\n\n\n\nQuick Facts\n\n🎓 Programme: BSc (Hons) Applied Computing (FinTech), SIT\n\n💡 Interests: Data Analytics, Financial Systems, Software Development\n\n🧰 Tools & Technologies:\n\nProgramming: R, Python\n\nData & Analytics: Excel, Tableau\n\nOther: Git, Quarto, SQL\n\n\n\n\n\nAbout This Website\nThis portfolio was built using Quarto and published via GitHub Pages.\nIt serves as a central place to document my learning progress, projects, and data visualisation work."
+  },
+  {
+    "objectID": "index.html#hi-im-shermaine",
+    "href": "index.html#hi-im-shermaine",
+    "title": "Self Introduction",
+    "section": "",
+    "text": "I’m a student at the Singapore Institute of Technology (SIT), pursuing a Bachelor of Applied Computing with Honours, specialising in Financial Technology (FinTech).\nI have a strong interest in how technology can be applied to solve real-world financial problems, especially through data analysis, software development, and visualisation.\nThis website showcases my academic projects and selected work created during my student journey.\n\n\n\n\n🎓 Programme: BSc (Hons) Applied Computing (FinTech), SIT\n\n💡 Interests: Data Analytics, Financial Systems, Software Development\n\n🧰 Tools & Technologies:\n\nProgramming: R, Python\n\nData & Analytics: Excel, Tableau\n\nOther: Git, Quarto, SQL\n\n\n\n\n\n\nThis portfolio was built using Quarto and published via GitHub Pages.\nIt serves as a central place to document my learning progress, projects, and data visualisation work."
+  }
+]

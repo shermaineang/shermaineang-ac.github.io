@@ -2,13 +2,28 @@
 title: "Self Introduction"
 ---
 
-## Hi, I’m Shermaine
+### About Me
+Hi, I’m Shermaine 👋
 
-I’m a student at SIT pursuing a Bachelor Degree with Honours in Applied Computing with a specialisation in Fintech. I’m interested in <interest 1>, <interest 2>, and <interest 3>.  
-This website shares my projects and some of my work in data visualization.
+I’m a student at the Singapore Institute of Technology (SIT), pursuing a **Bachelor of Applied Computing with Honours**, specialising in **Financial Technology (FinTech)**.
 
-### Quick facts
-- 🎓 Programme: <Your Programme>
-- 💡 Interests: <Interests>
-- 🧰 Tools: R, Python, Excel, Tableau (edit to match you)
+I have a strong interest in how technology can be applied to solve real-world financial problems, especially through **data analysis**, **software development**, and **visualisation**.  
+This website showcases my academic projects and selected work created during my student journey.
 
+---
+
+### Quick Facts
+
+- 🎓 **Programme**: BSc (Hons) Applied Computing (FinTech), SIT  
+- 💡 **Interests**: Data Analytics, Financial Systems, Software Development  
+- 🧰 **Tools & Technologies**:
+  - Programming: R, Python  
+  - Data & Analytics: Excel, Tableau  
+  - Other: Git, Quarto, SQL
+
+---
+
+### About This Website
+
+This portfolio was built using **Quarto** and published via **GitHub Pages**.  
+It serves as a central place to document my learning progress, projects, and data visualisation work.
