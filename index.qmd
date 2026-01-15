@@ -1,11 +1,14 @@
 ---
-title: "temp_website"
+title: "Self Introduction"
 ---
 
-This is a Quarto website.
+## Hi, I’m Shermaine
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I’m a student at SIT pursuing a Bachelor Degree with Honours in Applied Computing with a specialisation in Fintech. I’m interested in <interest 1>, <interest 2>, and <interest 3>.  
+This website shares my projects and some of my work in data visualization.
 
-```{r}
-1 + 1
-```
+### Quick facts
+- 🎓 Programme: <Your Programme>
+- 💡 Interests: <Interests>
+- 🧰 Tools: R, Python, Excel, Tableau (edit to match you)
+
