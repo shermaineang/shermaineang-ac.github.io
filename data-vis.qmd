@@ -1,5 +1,5 @@
 ---
-title: "Data Visualisation of Singapore Cost of Living (CPI)"
+title: "Singapore Cost of Living (CPI)"
 ---
 
 ![](images/title.jpg){fig-alt="Singapore Consumer Price Index (CPI) Header" width=100%}

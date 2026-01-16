@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - href: data-vis.qmd
-        text: data visualisation
+        text: Data Visualisation
       - href: interests.qmd
         text: Interests
       - href: travel.qmd
