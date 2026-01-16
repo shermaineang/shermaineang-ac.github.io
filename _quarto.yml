@@ -8,8 +8,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: data-vis.qmd
-        text: Data Visualisation
       - href: interests.qmd
         text: Interests
       - href: travel.qmd
