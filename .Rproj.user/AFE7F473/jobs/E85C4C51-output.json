@@ -1,0 +1,7 @@
+[1,"==> quarto preview data-vis.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: data-vis.html\n  standalone: true\n  title-prefix: Shermaine's Portfolio\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  variables: {}\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  theme: cosmo\n  smooth-scroll: true\n  title: Singapore Cost of Living (CPI)\n  \n"]
+[1,"Output created: docs\\data-vis.html\n\nPreparing to preview\n\nWatching files for changes\nBrowse at http://localhost:3156/data-vis.html\nListening on http://127.0.0.1:3156/\n"]
+[1,"GET: /data-vis.html\n"]
+[1,"GET: /interests.html\n"]
+[1,"GET: /\n"]
+[1,"GET: /data-vis.html\n"]
