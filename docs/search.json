@@ -282,36 +282,43 @@
   {
     "objectID": "data-vis.html#inflation-comparison-2023-vs-2024",
     "href": "data-vis.html#inflation-comparison-2023-vs-2024",
-    "title": "Singapore Cost of Living (CPI)",
+    "title": "Data Visualisation of Singapore Cost of Living (CPI)",
     "section": "1) Inflation Comparison (2023 vs 2024)",
     "text": "1) Inflation Comparison (2023 vs 2024)\n\nWhat this shows: - Comparison of inflation rates across different CPI measures between 2023 and 2024. - Highlights how inflation changed year-on-year for headline CPI and core measures."
   },
   {
     "objectID": "data-vis.html#inflation-rate-by-division-general-households-2024",
     "href": "data-vis.html#inflation-rate-by-division-general-households-2024",
-    "title": "Singapore Cost of Living (CPI)",
+    "title": "Data Visualisation of Singapore Cost of Living (CPI)",
     "section": "2) Inflation Rate by Division (General Households, 2024)",
     "text": "2) Inflation Rate by Division (General Households, 2024)\n\nWhat this shows: - Which categories contributed most to inflation in 2024 (e.g., housing, food, transport, etc.). - Useful for identifying “main drivers” of cost increases."
   },
   {
     "objectID": "data-vis.html#cpi-weighting-pattern-general-households-2024-based",
     "href": "data-vis.html#cpi-weighting-pattern-general-households-2024-based",
-    "title": "Singapore Cost of Living (CPI)",
+    "title": "Data Visualisation of Singapore Cost of Living (CPI)",
     "section": "3) CPI Weighting Pattern (General Households, 2024-Based)",
     "text": "3) CPI Weighting Pattern (General Households, 2024-Based)\n\nWhat this shows: - How the CPI basket is weighted across spending groups (e.g., Housing & Utilities, Food, Transport). - Helps explain why some categories influence overall CPI more than others."
   },
   {
     "objectID": "data-vis.html#inflation-rate-by-household-income-group-2024",
     "href": "data-vis.html#inflation-rate-by-household-income-group-2024",
-    "title": "Singapore Cost of Living (CPI)",
+    "title": "Data Visualisation of Singapore Cost of Living (CPI)",
     "section": "4) Inflation Rate by Household Income Group (2024)",
     "text": "4) Inflation Rate by Household Income Group (2024)\n\nWhat this shows: - Differences in inflation experience across income groups. - Can be discussed as how spending patterns vary by household income."
   },
   {
     "objectID": "data-vis.html#key-takeaways",
     "href": "data-vis.html#key-takeaways",
-    "title": "Singapore Cost of Living (CPI)",
+    "title": "Data Visualisation of Singapore Cost of Living (CPI)",
     "section": "Key Takeaways",
     "text": "Key Takeaways\n\nOverall inflation moderated in 2024 compared to 2023 for headline CPI.\nCertain divisions (e.g., Housing & Utilities / Food) were major contributors in 2024.\nCPI weighting shows which categories matter most in the final CPI calculation.\nDifferent income groups may face different effective inflation rates."
+  },
+  {
+    "objectID": "data-vis.html#inflation-rate-by-division-in-2024-general-households",
+    "href": "data-vis.html#inflation-rate-by-division-in-2024-general-households",
+    "title": "Data Visualisation of Singapore Cost of Living (CPI)",
+    "section": "2) Inflation Rate by Division in 2024 (General Households)",
+    "text": "2) Inflation Rate by Division in 2024 (General Households)\n\nWhat this shows: - Which categories contributed most to inflation in 2024 (e.g., housing, food, transport, etc.). - Useful for identifying “main drivers” of cost increases."
   }
 ]

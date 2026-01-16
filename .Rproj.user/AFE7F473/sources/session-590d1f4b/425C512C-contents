@@ -1,5 +1,5 @@
 ---
-title: "Singapore Cost of Living (CPI)"
+title: "Data Visualisation of Singapore Cost of Living (CPI)"
 ---
 
 ![](images/title.jpg){fig-alt="Singapore Consumer Price Index (CPI) Header" width=100%}
@@ -21,7 +21,7 @@ This page presents key CPI-based visuals related to Singapore’s cost of living
 
 ---
 
-## 2) Inflation Rate by Division (General Households, 2024)
+## 2) Inflation Rate by Division in 2024 (General Households)
 
 ![](images/graph_2.jpg){fig-alt="Inflation rate for general households by division in 2024" width=85%}
 
