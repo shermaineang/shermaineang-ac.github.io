@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: data visualisation.qmd
+      - href: data-visualisation.qmd
         text: Data Visualisation
       - href: interests.qmd
         text: Interests
