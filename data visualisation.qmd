@@ -1,9 +1,5 @@
 ---
 title: "Singapore Cost of Living (CPI)"
-format:
-  html:
-    toc: true
-    smooth-scroll: true
 ---
 
 ![](images/title.jpg){fig-alt="Singapore Consumer Price Index (CPI) Header" width=100%}
